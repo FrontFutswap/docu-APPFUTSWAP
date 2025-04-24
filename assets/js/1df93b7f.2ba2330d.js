@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfutswap_app=self.webpackChunkfutswap_app||[]).push([[4583],{6107:(p,t,u)=>{u.r(t),u.d(t,{default:()=>r});u(6540);var a=u(6347),s=u(9030),e=u(4848);function r(){return(0,e.jsx)(a.rd,{to:(0,s.Ay)("intro")})}}}]);
