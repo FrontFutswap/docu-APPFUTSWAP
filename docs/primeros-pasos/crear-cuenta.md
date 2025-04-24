@@ -14,7 +14,7 @@ Desde la pantalla principal de inicio de sesión:
 
 > 📝 Este botón te llevará al proceso de registro donde podrás configurar tu cuenta y billetera digital de manera segura.
 
-<img style={{ borderRadius: '20px' }} src="/img/welcome.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px' }} src="/docu-APPFUTSWAP/img/welcome.jpg" alt="welcome" width="300"/>
 
 ---
 
@@ -24,7 +24,7 @@ Después de pulsar **"Crear nueva billetera"**, se te mostrará una pantalla con
 
 > _“Tu frase secreta es la llave maestra de tu billetera, y cualquiera que la posea puede acceder a tus criptos. Nunca la compartas”_
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/msj-frase.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/msj-frase.jpg" alt="welcome" width="300"/>
 
 - Lee cuidadosamente la información.
 - Pulsa el botón **"Siguiente"** para continuar con la creación de tu frase secreta.
@@ -46,7 +46,7 @@ Antes de continuar, deberás **leer y aceptar los Términos y Condiciones** de u
 
 - Haz clic en el boton **Continuar**
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/create-terms.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/create-terms.jpg" alt="welcome" width="300"/>
 
 
 ---
@@ -71,4 +71,4 @@ Una vez que hayas guardado tu frase, pulsa el botón **"Continuar"**.
 
 
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/frase.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/frase.jpg" alt="welcome" width="300"/>

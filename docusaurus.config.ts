@@ -10,17 +10,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://FrontFutswap.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/docu-APPFUTSWAP/",
+  organizationName: 'FrontFutswap', // Usually your GitHub org/user name.
+  projectName: 'docu-APPFUTSWAP', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -36,26 +35,9 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          path: 'docs',
+          routeBasePath: '/', // 👈 Esto hace que los docs estén en la raíz
+          sidebarPath: './src/sidebars.ts',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -63,7 +45,6 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
     // Replace with your project's social card
     image: 'img/logo_neoexchange.svg',
@@ -74,20 +55,6 @@ const config: Config = {
         src: 'img/logo_neoexchange.svg',
         srcDark: 'img/logo_neoexchange-white.svg'
       },
-      // items: [
-      //   {
-      //     type: 'docSidebar',
-      //     sidebarId: 'tutorialSidebar',
-      //     position: 'left',
-      //     label: 'Tutorial',
-      //   },
-      //   {to: '/blog', label: 'Blog', position: 'left'},
-      //   {
-      //     href: 'https://github.com/facebook/docusaurus',
-      //     label: 'GitHub',
-      //     position: 'right',
-      //   },
-      // ],
     },
     footer: {
       style: 'dark',
@@ -97,7 +64,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: 'primeros-pasos/descarga',
             },
           ],
         },

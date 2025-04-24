@@ -1,47 +1,36 @@
 ---
-sidebar_position: 1
+  id: intro
+  title: Bienvenido
 ---
 
-# Tutorial Intro
+<img style={{ borderRadius: '20px', marginTop: '40px', marginBottom: '20px' }} src="img/logo_neoexchange.svg" alt="welcome" width="300"/>
 
-Let's discover **Docusaurus in less than 5 minutes**.
+El futuro de los bancos es difícil de predecir con certeza, sin embargo, es probable que veamos cambios importantes en la forma en que los bancos operan y brindan servicios a sus clientes. 
 
-## Getting Started
+Algunos posibles desarrollos que podríamos ver en el futuro de los bancos incluyen:
 
-Get started by **creating a new site**.
+- Un mayor uso de la tecnología, como la banca en línea y las aplicaciones móviles, para facilitar la realización de transacciones y otros servicios bancarios.
+- Una mayor competencia de parte de fintechs y otras empresas que ofrecen servicios financieros alternativos.
+- Mayor énfasis en la responsabilidad social y ambiental por parte de los bancos, ya sea a través de inversiones éticas o de la implementación de prácticas sostenibles en sus operaciones diarias.
+- Mayor regulación y supervisión por parte de los organismos gubernamentales para garantizar la estabilidad del sistema financiero y proteger a los consumidores.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Misión
 
-### What you'll need
+Somos un Holding de compañías cuyo objetivo es la satisfacción de personas y empresas en el intercambio del dinero a través de soluciones y herramientas financieras y tecnológicas que conectan el mundo digital con el mundo real. Visión
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Visión
 
-## Generate a new site
+Ser el futuro de los servicios financieros integrados con nuestro ecosistema flexible y escalable que permite a las personas y empresas hacer negocios a nivel local e internacional de una manera fácil, rápida y segura.
 
-Generate a new Docusaurus site using the **classic template**.
+### Objetivo general
 
-The classic template will automatically be added to your project after you run the command:
+Ser el futuro del intercambio del dinero líder en el mundo.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### ¿Para quién es esta documentación?
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Desarrolladores
+- Diseñadores de producto
+- Soporte técnico
+- QA
+- Nuevos miembros del equipo

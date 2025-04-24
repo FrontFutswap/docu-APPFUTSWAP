@@ -12,7 +12,7 @@ Una vez que hayas descargado la app y creado tu cuenta, iniciar sesión es muy s
 - Abre la aplicación desde tu dispositivo móvil (iOS o Android). 
 - Haz clic en el boton **FUTSWAP NeoWallet**
 
-<img style={{ borderRadius: '20px' }} src="/img/welcome.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px' }} src="/docu-APPFUTSWAP/img/welcome.jpg" alt="welcome" width="300"/>
 
 ---
 
@@ -23,7 +23,7 @@ En la pantalla de inicio de sesión:
 - Introduce tu **correo electrónico**.
 - Haz clic en el boton **Continuar**
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/inicia-sesion.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/inicia-sesion.jpg" alt="welcome" width="300"/>
 
 
 
@@ -39,7 +39,7 @@ Antes de continuar, deberás **leer y aceptar los Términos y Condiciones** de u
 
 - Haz clic en el boton **Continuar**
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/inicia-sesion-terminos.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/inicia-sesion-terminos.jpg" alt="welcome" width="300"/>
 
 
 ---
@@ -51,7 +51,7 @@ Se enviará un **código de seguridad de 6 dígitos** al correo electrónico aso
 - Revisa tu bandeja de entrada (y la carpeta de spam, si es necesario).
 - Introduce el código en el campo correspondiente para continuar.
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/inicia-sesion-codigo.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/inicia-sesion-codigo.jpg" alt="welcome" width="300"/>
 
 > 🔒 Este paso es parte de nuestro sistema de verificación para mantener tu cuenta segura.
 
@@ -70,8 +70,8 @@ Una vez validado el código, accederás a una pantalla donde podrás configurar 
 
 
 <div style={{ display: 'flex', gap: '10px' }}>
-    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/seguridad.jpg" alt="welcome" width="300"/>
-    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/seguridad-password.jpg" alt="welcome" width="300"/>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad.jpg" alt="welcome" width="300"/>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad-password.jpg" alt="welcome" width="300"/>
 </div>
 
 
@@ -83,4 +83,4 @@ Después de activar la biometría, serás redirigido automáticamente a tu pági
 
 ¡Listo! Ya puedes comenzar a utilizar todas las funcionalidades de la plataforma.
 
-<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/img/home.jpg" alt="welcome" width="300"/>
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/home.jpg" alt="welcome" width="300"/>
