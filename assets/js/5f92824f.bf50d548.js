@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfutswap_app=self.webpackChunkfutswap_app||[]).push([[411],{7576:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/docu-APPFUTSWAP/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

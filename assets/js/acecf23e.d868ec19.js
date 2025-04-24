@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfutswap_app=self.webpackChunkfutswap_app||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
