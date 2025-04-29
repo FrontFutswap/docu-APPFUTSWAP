@@ -70,8 +70,8 @@ Una vez validado el código, accederás a una pantalla donde podrás configurar 
 
 
 <div style={{ display: 'flex', gap: '10px' }}>
-    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad.jpg" alt="welcome" width="300"/>
-    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad-password.jpg" alt="welcome" width="300"/>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad.jpg" alt="welcome" width="200"/>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad-password.jpg" alt="welcome" width="200"/>
 </div>
 
 

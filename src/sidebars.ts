@@ -12,20 +12,20 @@ const sidebars: SidebarsConfig = {
       label: 'Primeros pasos',
       items: [
         'primeros-pasos/descarga',
-        'primeros-pasos/crear-cuenta',
+        'primeros-pasos/crear-billetera',
         'primeros-pasos/agregar-billetera',
         'primeros-pasos/iniciar-sesion'
       ],
     },
-    {
-      type: 'category',
-      label: 'Arquitectura',
-      items: [
-        'arquitectura/general',
-        'arquitectura/flujo-de-datos',
-        'arquitectura/seguridad'
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Arquitectura',
+    //   items: [
+    //     'arquitectura/general',
+    //     'arquitectura/flujo-de-datos',
+    //     'arquitectura/seguridad'
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Módulos',

@@ -1,6 +1,6 @@
 ---
-    id: crear-cuenta
-    title: Crear Cuenta
+    id: crear-billetera
+    title: Crear billetera
 ---
 ---
 
@@ -72,3 +72,49 @@ Una vez que hayas guardado tu frase, pulsa el botón **"Continuar"**.
 
 
 <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/frase.jpg" alt="welcome" width="300"/>
+
+---
+
+## 5. Verifica tu frase secreta
+
+Para asegurarte de que anotaste tu frase correctamente, deberás **seleccionar algunas palabras** en el orden que te indica la aplicación.
+
+> ✍️ Este paso es esencial para proteger tu cuenta.
+
+<img src="/docu-APPFUTSWAP/img/verificar-frase.jpg" alt="Verificar frase" width="300" style={{ borderRadius: '20px', marginBottom: '20px' }} />
+
+Selecciona las palabras correctas y luego presiona el botón **Verificar**.
+
+- ✅ Si las palabras son correctas, pasarás al home de la aplicación
+- ❌ Si hay un error, la app te pedirá intentarlo de nuevo.
+
+
+---
+
+
+## 🧬 Paso 6: Activar seguridad 
+
+
+Una vez validado el código, accederás a una pantalla donde podrás configurar una capa extra de seguridad:
+
+- Activa la autenticación biométrica.
+- Como respaldo, deberás definir una **clave de acceso**.
+
+> 👆 Este paso es obligatorio por motivos de seguridad y se realiza cada vez que iniciar la app.
+
+
+<div style={{ display: 'flex', gap: '10px' }}>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad.jpg" alt="welcome" width="200"/>
+    <img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/seguridad-password.jpg" alt="welcome" width="200"/>
+</div>
+
+
+---
+
+## ✅ Paso 7: Finalizar inicio de sesión
+
+Después de activar la biometría, serás redirigido automáticamente a tu página de **inicio dentro de la app**.
+
+¡Listo! Ya puedes comenzar a utilizar todas las funcionalidades de la plataforma.
+
+<img style={{ borderRadius: '20px', marginBottom: '20px' }} src="/docu-APPFUTSWAP/img/home.jpg" alt="welcome" width="300"/>
